@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Steps to run the project : 
 
 1) clone the repo : git clone https://github.com/abhishekpm10/openMP.git
 2) Change directory : cd openMP 
